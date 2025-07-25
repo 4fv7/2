@@ -37,7 +37,7 @@ A modern, responsive personal finance dashboard built with vanilla HTML, CSS, an
 
 ## 🚀 Live Demo
 
-Visit the live application: [FinanceFlow Dashboard](https://your-username.github.io/financeflow)
+Visit the live application: [FinanceFlow Dashboard](https://4fv7.github.io/2/)
 
 ## 🛠️ Technologies Used
 
@@ -112,14 +112,8 @@ The application calculates a comprehensive financial health score based on:
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/financeflow.git
-   ```
 
 2. Navigate to the project directory:
-   ```bash
-   cd financeflow
-   ```
 
 3. Open `index.html` in your web browser or serve with a local server:
    ```bash
@@ -164,14 +158,6 @@ The application uses browser Local Storage to persist data:
 - Data validation on import
 
 ## 🔧 Customization
-
-### Adding New Categories
-Edit the category options in `js/app.js`:
-```javascript
-const categories = {
-  'new-category': 'New Category Name'
-};
-```
 
 ### Modifying Charts
 Chart configurations are in `js/charts.js`. Customize:
@@ -219,24 +205,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Chart.js](https://www.chartjs.org/) for beautiful charts
 - [Font Awesome](https://fontawesome.com/) for icons
 - [Google Fonts](https://fonts.google.com/) for typography
 - Design inspiration from modern fintech applications
-
-## 📧 Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/your-username/financeflow](https://github.com/your-username/financeflow)
-
----
 
 **Built with ❤️ for CS Graduate Portfolio**
 
